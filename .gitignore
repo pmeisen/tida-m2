@@ -1,4 +1,4 @@
 /repository/*
 !/repository/net
 /repository/net/*
-!/repository/net/meisen/*
+!/repository/net/meisen
