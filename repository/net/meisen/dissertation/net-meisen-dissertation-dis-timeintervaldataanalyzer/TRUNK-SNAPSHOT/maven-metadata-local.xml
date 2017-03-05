@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.meisen.dissertation</groupId>
+  <artifactId>net-meisen-dissertation-dis-timeintervaldataanalyzer</artifactId>
+  <version>TRUNK-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20170305201907</lastUpdated>
+  </versioning>
+</metadata>
